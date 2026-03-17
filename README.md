@@ -47,7 +47,7 @@ I bridge the gap between **power engineering** and **software development** — 
 
 | Period | Role | Organization |
 |--------|------|-------------|
-| Jul 2023 – Present | **Assistant Manager** — Planning & Engineering | Gujranwala Electric Power Company (GEPCO) |
+| May 2020 – Present | **Assistant Manager** — Planning & Engineering | Gujranwala Electric Power Company (GEPCO) |
 | Aug 2019 – May 2020 | **Electrical Engineer** | Fauji Fertilizer Company Limited (FFC) |
 | Jun 2018 – Jul 2018 | **Electrical Engineering Intern** | Schlumberger, Pakistan |
 
